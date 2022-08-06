@@ -33,8 +33,6 @@ export default function DeshboardScreen({route}) {
       onSend={messages => onSend(messages)}
       user={{
         _id: 1,
-        name: 'Flutter Native',
-        avatar: 'https://placeimg.com/140/140/any',
       }}
     />
   )
