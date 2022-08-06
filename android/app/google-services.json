@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "601840133910",
+    "project_id": "interview-f327e",
+    "storage_bucket": "interview-f327e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601840133910:android:5c21a9d1fa136391295237",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601840133910-th0jfal9789nh5luu4ssfsnkqngg9ut9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtyhs7Wqq3cDBl3PCPh_w1Z2zMeijqVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601840133910-th0jfal9789nh5luu4ssfsnkqngg9ut9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

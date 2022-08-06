@@ -1,7 +1,7 @@
 import { View, Text } from 'react-native'
 import React, { useState, useCallback, useEffect } from 'react'
 import { GiftedChat } from 'react-native-gifted-chat'
-
+// import Fire from '../Fire';
 export default function DeshboardScreen({route}) {
 
     const { data } = route.params;
